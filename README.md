@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergio</h1>
-<h3 align="center">I'm from Spain and I'm a commitment with the new technologies about Cloud, VM, Kubernetes & Docker, Microsoft OS, OPEN SOURCE, LINUX OS and any development.</h3>
+<h3 align="center">I'm from Spain and I'm a commitment with the new technologies about Cloud, VM, Kubernetes & Docker, Microsoft OS, OPEN SOURCE, LINUX OS and any development. Salesforce</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergioterleira&label=Profile%20views&color=0e75b6&style=flat" alt="sergioterleira" /> </p>
 
