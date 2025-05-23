@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@sergioterleira" target="blank"><img src="https://img.shields.io/twitter/follow/@sergioterleira?logo=twitter&style=for-the-badge" alt="@sergioterleira" /></a> </p>
 
-- 🔭 I’m currently working on **llaollao**
+- 🔭 I’m currently working on **DXC Technology**
 
 - 📫 How to reach me **sergio.terleira@hotmail.com**
 
